@@ -2,6 +2,11 @@
 .logo{
     width:80px
 }
+.pink-zebra-main{
+    max-width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+}
 input{
     border: radius 16px;
     margin-bottom:16px:
