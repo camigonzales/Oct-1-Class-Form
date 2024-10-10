@@ -5,6 +5,8 @@ console.log(littlebutton);
 
 littlebutton.addEventListener("click", (ev) => {
     ev.preventDefault();
+    const body = document.querySelector('body');
+
 })
 
 const element = document.getElementsByTagName("p");
